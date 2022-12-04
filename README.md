@@ -1,2 +1,3 @@
-# Learning-C
-alguns códigos em C
+# Estudando C
+Neste repositório irei realizar o upload de alguns códigos em C.
+
